@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.orange,
-          title: const Text('My First app'),
+          title: const Text('My First Flutter app'),
         ),
         body: const Center(
           child:Text(
